@@ -3,7 +3,7 @@
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-05df83dc3255a0767"
 ZONE_ID="Z038256441K9BJNPZEQD"
-DOMAIN_NAME="sak123@fun"
+DOMAIN_NAME="sak123.fun"
 
 for instance in $@
 do
